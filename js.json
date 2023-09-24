@@ -1,4 +1,4 @@
-{"spider":"clan://TVBox/jar/fm.jar",
+{"spider":"https://github.com/maozyk/-2/blob/main/fm.jar";md5;d1071e09e8fc477591671f52cd3ea952",
  "sites":[
  {"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
  {"key":"csp_GitCafe1","name":"纸条 | 搜索","type":3,"api":"csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "clan://TVBox/jar/alitoken.txt","jar":"clan://TVBox/Hk/Hk.jar"},
