@@ -1,6 +1,6 @@
 {
     "wallpaper": "https://picsum.photos/1280/720/?blur=2",
-    "spider": "clan://TVBox/Hk/Hk.jar",
+    "spider": "https://github.com/maozyk/-2/edit/main/Hk.jar",
     "lives": [
         {
           "name": "直播",
